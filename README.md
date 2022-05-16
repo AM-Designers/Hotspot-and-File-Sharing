@@ -1,2 +1,2 @@
 # Online Hotspot and File Sharing
- An app to share your files online and allows you to make a local area network connection
+A Multi-platform application that allows users to share their data under a secure tunnel without WiFi. If the application is installed, data can be shared through Web, Destop, and even from Mobile.
